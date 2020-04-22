@@ -1,2 +1,0 @@
-
-fido = Dog.new
